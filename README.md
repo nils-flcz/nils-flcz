@@ -15,36 +15,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-I’m a final-year engineering student at [ISAE-SUPAERO](https://www.isae-supaero.fr/en/), majoring in [Data Science & Decision](https://supaerodatascience.github.io) with a minor in **Energy & Environment**, after completing an exchange semester at **EPFL**.  
+I’m a final-year engineering student at [ISAE-SUPAERO](https://www.isae-supaero.fr/en/), majoring in [**Data Science & Decision**](https://supaerodatascience.github.io) with a minor in **Energy & Environment**.  
+I also had the chance to complete an exchange semester at **EPFL**.  
 
+My work and studies are driven by two main passions:  
+- leveraging **data, AI and optimization** to address complex systems,  
+- contributing to the **energy transition** with modeling and decision-support tools.  
 
-My work and studies are driven by two main interests:  
-- using **data and optimization** to tackle complex systems and challenges,  
-- supporting the energy transition through **modeling and decision tools**.  
-
-I am currently looking for a **5–6 month end-of-study internship starting April 2026**, ideally at the crossroads of **data and sustainable energy**.
+I’m currently looking for a **5–6 month end-of-study internship starting April 2026**, ideally at the crossroads of **data science and sustainable energy**.  
 
 ---
 
 ## 🔬 Academic & Technical Background  
 
-- **Data & Optimization**: machine learning (Python, PyTorch, Matlab), operations research, simulation, ...  
-- **Energy & Environment**: LCA, decarbonization strategies, sustainable systems engineering, ...
-- **Aerospace & Industry**: structural mechanics, CFD, system engineering, ...  
+- **Data & Optimization** → machine learning (Python, PyTorch, Matlab), operations research, simulation  
+- **Energy & Environment** → LCA, decarbonization strategies, sustainable systems engineering  
+- **Aerospace & Industry** → structural mechanics, CFD, system engineering  
 
 ---
 
-### Selected Projects  
+## 🚀 Selected Projects  
 
-- **Sokoban Solver (C)** – Implemented tree search algorithms with performance optimization (up to ×50 speed-up)  
-- **YOLOv8 for Earth Observation (EPFL)** – Applied deep learning with RGB + DSM-hillshade fusion to improve large-rock detection accuracy for risk mapping  
-- **Steel Decarbonization Scenarios (ISAE-SUPAERO)** – Prospective modeling with Kaya identity; compared hydrogen, CCUS, and efficiency pathways for net-zero trajectories  
-- **Space Mission Design (EPFL)** – Designed a dual-satellite solar observation mission, applying systems engineering trade-offs and performance modeling  
-- **Sustainable Aviation Fuels (SAF)** – Pecha Kucha presentation synthesizing academic & industrial insights on SAF role in aviation decarbonization  
+- 🧩 **Sokoban Solver (ISAE-SUPAERO)** – Implemented tree search algorithms with performance optimization (up to ×50 speed-up)  
+- 🛰️ **YOLOv8 for Earth Observation (EPFL)** – Applied deep learning with RGB + DSM-hillshade fusion to improve large-rock detection accuracy for risk mapping  
+- 🔧 **Steel Decarbonization Scenarios (ISAE-SUPAERO)** – Prospective modeling with Kaya identity; compared hydrogen, CCUS, and efficiency pathways for net-zero trajectories  
+- 🌞 **Space Mission Design (EPFL)** – Designed a dual-satellite solar observation mission, applying systems engineering trade-offs and performance modeling  
+- ✈️ **Decision-Support Tool for Aviation Environmental Impact (CEDAR Certificate, Airbus)**   Developed a multi-criteria tool to assess flight environmental impact, combining Life Cycle Assessment (LCA) and decision analysis
 
 ---
 
-# 🛠️ My Tools
+## 🛠️ My Tools  
 
 | Category | Tools |
 |----------|-------|
@@ -59,7 +59,8 @@ I am currently looking for a **5–6 month end-of-study internship starting Apri
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nils-falcoz/)  
 - 📧 [nilsfalcoz@gmail.com](mailto:nilsfalcoz@gmail.com)  
-- 📍 Based in Toulouse, open to opportunities in France and abroad  
+- 📍 Based in **Toulouse**, open to opportunities in **France and abroad**  
+
 
 
 
