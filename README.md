@@ -36,7 +36,7 @@ I am currently looking for a **5–6 month end-of-study internship starting Apri
 
 ### Selected Projects  
 
-- **Sokoban Solver (C)** – Implemented tree search algorithms with performance optimization (×50 speed-up)  
+- **Sokoban Solver (C)** – Implemented tree search algorithms with performance optimization (up to ×50 speed-up)  
 - **YOLOv8 for Earth Observation (EPFL)** – Applied deep learning with RGB + DSM-hillshade fusion to improve large-rock detection accuracy for risk mapping  
 - **Steel Decarbonization Scenarios (ISAE-SUPAERO)** – Prospective modeling with Kaya identity; compared hydrogen, CCUS, and efficiency pathways for net-zero trajectories  
 - **Space Mission Design (EPFL)** – Designed a dual-satellite solar observation mission, applying systems engineering trade-offs and performance modeling  
