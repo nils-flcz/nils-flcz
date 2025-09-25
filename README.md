@@ -44,6 +44,17 @@ I am currently looking for a **5–6 month end-of-study internship starting Apri
 
 ---
 
+# 🛠️ My Tools
+
+| Category | Tools |
+|----------|-------|
+| **Programming Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) |
+| **Machine Learning & Data Analysis** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) |
+| **Optimization & Modeling** | ![Matlab](https://img.shields.io/badge/-Matlab-0076A8?logo=mathworks&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white) |
+| **Other Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Pygame](https://img.shields.io/badge/-Pygame-3776AB?logo=pygame&logoColor=white) |
+
+---
+
 ## 📫 How to reach me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nils-falcoz/)  
