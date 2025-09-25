@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-I’m a final-year engineering student at [ISAE-SUPAERO](https://www.isae-supaero.fr/en/), currently majoring in **Data Science & Decision** ([SDD program](https://supaerodatascience.github.io)) and a minor in Energy and Environemt ([ETE program]([https://www.isae-supaero.fr/plaquette-ingenieur/#page=20])), after an exchange semester at **EPFL**.  
+I’m a final-year engineering student at [ISAE-SUPAERO](https://www.isae-supaero.fr/en/), majoring in [Data Science & Decision](https://supaerodatascience.github.io) with a minor in **Energy & Environment**, after completing an exchange semester at **EPFL**.  
+
 
 My work and studies are driven by two main interests:  
 - using **data and optimization** to tackle complex systems and problem,  
