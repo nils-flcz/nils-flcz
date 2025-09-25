@@ -19,7 +19,7 @@ I’m a final-year engineering student at [ISAE-SUPAERO](https://www.isae-supaer
 
 
 My work and studies are driven by two main interests:  
-- using **data and optimization** to tackle complex systems and problem,  
+- using **data and optimization** to tackle complex systems and challenges,  
 - supporting the energy transition through **modeling and decision tools**.  
 
 I am currently looking for a **5–6 month end-of-study internship starting April 2026**, ideally at the crossroads of **data and sustainable energy**.
